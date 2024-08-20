@@ -7,36 +7,49 @@ Understanding KProxy and Its Usage.
 KProxy serves as an intermediary between you and the internet, effectively masking your identity and location. When you use KProxy, your requests are routed through its servers before reaching the target website. This process ensures that the websites you visit only see the IP address of the KProxy server, allowing you to browse safely and access region-restricted content.
 
 # Pros and Cons of KProxy
+
 Advantages
+
 Free Web Proxy and Extensions:
+
 KProxy offers a free web proxy service, making it accessible to anyone needing to bypass internet restrictions or browse anonymously. It also provides free browser extensions for Chrome and Firefox, which are easy to install and use.
 
 User-Friendly Interface:
+
 KProxy is designed to be user-friendly, allowing even non-tech-savvy individuals to navigate the website and use the proxy service without confusion.
 
 Static IP Addresses:
+
 The service offers static IP addresses, which can be useful for maintaining a consistent IP during browsing sessions. This is particularly beneficial for managing social media accounts or accessing content restricted by IP location.
 
 HTTP(S) Support:
+
 KProxy supports both HTTP and HTTPS protocols. HTTPS encrypts the data exchanged between your browser and the website, enhancing your online privacy and security.
 
 Reasonable Browsing Speeds:
+
 Despite being a free service, KProxy provides browsing speeds ranging from 25 Mb/s to 50 Mb/s, which is generally sufficient for everyday activities.
 
 Disadvantages
+
 Limited Server Coverage:
+
 KProxy's free service is limited to proxy servers in Canada and France. This restriction can be problematic if you need to access content from other regions.
 
 No SOCKS Support:
+
 KProxy does not support the SOCKS protocol, limiting its versatility compared to other proxy services. It may not be suitable for tasks beyond basic browsing.
 
 Limited File Transfers:
+
 According to KProxy's Terms of Use, files larger than a specified size are automatically cut off, hindering your ability to download or upload large files.
 
 Targeted Ads:
+
 Users of the free KProxy service may encounter frequent targeted ads, which can be intrusive and disrupt the browsing experience.
 
 Poor Customer Support:
+
 KProxy lacks live chat support, making it challenging to get timely responses to your queries, which can be frustrating if you rely on the service for important tasks.
 
 # How to Use KProxy
